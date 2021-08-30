@@ -1,4 +1,5 @@
-DOMAIN, cdn.ranch.io
+USER-AGENT,DPlus*
+DOMAIN,cdn.ranch.io
 DOMAIN,control.kochava.com
 DOMAIN,kvinit-prod.api.kochava.com
 DOMAIN,us1-prod.disco-api.com
