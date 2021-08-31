@@ -1,4 +1,6 @@
 USER-AGENT,DPlus*
+DOMAIN-KEYWORD,disco
+DOMAIN-KEYWORD,discovery
 DOMAIN,cdn.branch.io
 DOMAIN,control.kochava.com
 DOMAIN,kvinit-prod.api.kochava.com
